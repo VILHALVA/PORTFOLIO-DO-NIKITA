@@ -18,31 +18,11 @@ O site é um portfólio pessoal ou profissional de Nikita Yudin, mostrando seu t
 
 6. **Formulário de contato**: A seção "Contact" inclui um formulário de contato onde os visitantes podem inserir seu nome e endereço de e-mail e enviar uma mensagem para o proprietário do site.
 
-## COMO USAR?
-* Clone o repositório para o seu sistema local:
-
-```bash
-git clone https://github.com/VILHALVA/PORTFOLIO-DO-NIKITA.git
-```
-
-* Navegue até o diretório do projeto.
-
-```bash
-cd PORTFOLIO-DO-NIKITA
-```
-
-* Descompacte o arquivo ZIP (se você baixou manualmente):
-
-```bash
-unzip PORTFOLIO-DO-NIKITA.zip
-```
-* Abra o arquivo `index.html` em seu navegador de preferência.
-
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
-* [Curso de HTML e CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
-* [Curso de JavaScript](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
-* [Confira mais cursos](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+* [CURSO DE HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
+* [CURSO DE JAVASCRIPT](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
+* [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
 - [PROJETO CRIADO PELO "Nikita Iudin"](https://github.com/Nikita-Iudin/my-site-webflow-donwloading)
