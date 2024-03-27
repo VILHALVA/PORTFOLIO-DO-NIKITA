@@ -1,7 +1,11 @@
 # PORTFOLIO DO NIKITA
 ☑️EXEMPLO DE PORTFOLIO.
 
-<img src="FOTO.png" align="center" width="500"> <br> 
+<img src="./IMAGENS/FOTO_1.png" align="center" width="500"> <br> 
+<img src="./IMAGENS/FOTO_2.png" align="center" width="500"> <br> 
+<img src="./IMAGENS/FOTO_3.png" align="center" width="500"> <br> 
+<img src="./IMAGENS/FOTO_4.png" align="center" width="500"> <br> 
+<img src="./IMAGENS/FOTO_5.png" align="center" width="500"> <br> 
 
 ## DESCRIÇÃO:
 O site é um portfólio pessoal ou profissional de Nikita Yudin, mostrando seu trabalho como desenvolvedor web e designer. Ele fornece informações sobre os projetos realizados por Nikita, bem como uma maneira de entrar em contato com ele. Aqui está uma descrição das principais características e funcionalidades do site:
