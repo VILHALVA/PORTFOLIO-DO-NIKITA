@@ -31,4 +31,3 @@ O site é um portfólio pessoal ou profissional de Nikita Yudin, mostrando seu t
 ## CREDITOS:
 - [PROJETO CRIADO PELO "Nikita Iudin"](https://github.com/Nikita-Iudin/my-site-webflow-donwloading)
 - [PROJETO EDITADO PELO VILHALVA](https://github.com/VILHALVA)
-- [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
